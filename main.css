@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+div {
+    text-align: center;
+    width: 300px;
+    background-color: #eda;
+    border: 3px double #990
+}
+
+div > h1 {
+    color: #630;
+    font-family: serif;
+}
+
+div > #btn{
+    background: #740;
+    border: 0;
+    color: #FFF;
+    cursor: pointer;
+    font-size: 20px;
+    font-family: serif;
+    margin: 10px auto 20px auto;
+    padding: 5px 20px;
+
+}
