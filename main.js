@@ -6,7 +6,7 @@ window.onload = function () {
 
     btn.onclick = function () {
         var number = Math.floor(Math.random() * 100) + 1;
-        output.innerText = number;
+        output.innertText = number;
         
     };
 
